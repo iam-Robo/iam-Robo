@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-Robo
 - 👀 I’m interested in coding with python , networking
-- 🌱 I’m currently learning djaango
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on anywhere
 - 📫 How to reach me : my email address : a.abizadeh@gmail.com
 
