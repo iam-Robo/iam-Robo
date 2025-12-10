@@ -11,4 +11,4 @@ You can click the Preview link to view your changes.
 --->
 🧑‍💻 Geek:
 
-![My Skills](https://skillicons.dev/icons?i=html,ansible,bash,cloudflare,debian,ubuntu,windows,django,docker,git,py,vscode,pycharm,)
+![My Skills](https://skillicons.dev/icons?i=html,ansible,bash,cloudflare,debian,ubuntu,windows,django,docker,git,php,py,vscode,pycharm,)
